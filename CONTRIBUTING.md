@@ -1,5 +1,7 @@
 # Cómo Contribuir  
 
+Todas las contribuciones, informes de errores, correcciones de errores, mejoras en la documentación, mejoras y ideas son bienvenidas.
+
 ¡Gracias por considerar contribuir a este proyecto!  Las contribuciones económicas la puedes hacer a traves de nuestro website. 
 
 La contribucciones al proyecto a través de desarrollo así: 
